@@ -26,5 +26,23 @@ namespace Game_Loadout_Designer
         {
             this.InitializeComponent();
         }
+
+        public void ClearPanel()
+        {
+            BF2042Grid.Visibility = Visibility.Collapsed;
+            CODMWII22Grid.Visibility = Visibility.Collapsed;
+        }
+
+        private void BF2042_Click(object sender, RoutedEventArgs e)
+        {
+            ClearPanel();
+            BF2042Grid.Visibility = Visibility.Visible;
+        }
+
+        private void CODMWII22_Click(object sender, RoutedEventArgs e)
+        {
+            ClearPanel();
+            CODMWII22Grid.Visibility = Visibility.Visible;
+        }
     }
 }

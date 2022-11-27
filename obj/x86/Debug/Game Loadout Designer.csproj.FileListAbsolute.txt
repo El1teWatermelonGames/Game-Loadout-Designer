@@ -1,0 +1,50 @@
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\bin\x86\Debug\App.xbf
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\bin\x86\Debug\MainPage.xbf
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\bin\x86\Debug\Game Loadout Designer.xr.xml
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\bin\x86\Debug\Game Loadout Designer.exe
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\bin\x86\Debug\Game Loadout Designer.pdb
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\bin\x86\Debug\resources.pri
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\bin\x86\Debug\AppxManifest.xml
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\bin\x86\Debug\Core\Game Loadout Designer.exe
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\bin\x86\Debug\Game Loadout Designer.build.appxrecipe
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\bin\x86\Debug\System.Runtime.dll
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\obj\x86\Debug\Game Loadout Designer.csproj.AssemblyReference.cache
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\obj\x86\Debug\App.g.i.cs
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\obj\x86\Debug\App.g.cs
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\obj\x86\Debug\MainPage.g.cs
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\obj\x86\Debug\App.xaml
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\obj\x86\Debug\MainPage.xaml
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\obj\x86\Debug\App.xbf
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\obj\x86\Debug\MainPage.xbf
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\obj\x86\Debug\Game Loadout Designer.csproj.CoreCompileInputs.cache
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\obj\x86\Debug\Game Loadout Designer.csproj.CopyComplete
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\obj\x86\Debug\Game Loadout Designer.exe
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\obj\x86\Debug\Game Loadout Designer.pdb
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\obj\x86\Debug\priconfig.xml
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\obj\x86\Debug\resources.resfiles
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\obj\x86\Debug\pri.resfiles
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\obj\x86\Debug\qualifiers.txt
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424779200000000.json
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\obj\x86\Debug\Designer-Pages\BF2042.g.i.cs
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\obj\x86\Debug\Designer-Pages\BF2042.g.cs
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\obj\x86\Debug\Designer-Pages\BF2042.xaml
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\obj\x86\Debug\Designer-Pages\BF2042.xbf
+C:\Users\Henry Gove\Documents\Visual Studio Projects\Game Loadout Designer\bin\x86\Debug\Designer-Pages\BF2042.xbf

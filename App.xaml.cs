@@ -7,6 +7,8 @@ using Windows.ApplicationModel;
 using Windows.ApplicationModel.Activation;
 using Windows.Foundation;
 using Windows.Foundation.Collections;
+using Windows.UI.ViewManagement;
+using Windows.UI;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
 using Windows.UI.Xaml.Controls.Primitives;
@@ -71,6 +73,12 @@ namespace Game_Loadout_Designer
                 // Ensure the current window is active
                 Window.Current.Activate();
             }
+
+            ApplicationViewTitleBar titleBar = ApplicationView.GetForCurrentView().TitleBar;
+            titleBar.BackgroundColor = Color.FromArgb(1, 27, 27, 27);
+            titleBar.ForegroundColor = Colors.WhiteSmoke;
+            titleBar.ButtonBackgroundColor = Color.FromArgb(1, 27, 27, 27);
+            titleBar.ButtonForegroundColor = Colors.WhiteSmoke;
         }
 
         /// <summary>
